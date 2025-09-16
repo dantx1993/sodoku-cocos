@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "sodoku-cocos",
+  "id": "4cf69113-d54e-4456-b762-1981e2f72077",
+  "version": "2.4.5",
+  "isNew": false
+}
